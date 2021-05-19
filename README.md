@@ -1,7 +1,8 @@
 # Introduction:
 - 👋🏻 Hi, I’m Mayank Pandit: <b> @mayankpandit00 </b>
 - 👨🏻‍🎓 B.E CS student
-- 👨🏻‍💻 I’m interested in programming: <b>c, c++, java, html, css, js, python</b>
+- 👨🏻‍💻 I’m interested in : <b>web development, cyber security, android development, machine & deep learning, artificial intelligence</b>
+- 📝 Favourite Languages : <b>c, c++, java, html, css, js, python</b>
 - 📩 How to reach me: dev.mayankpandit00@gmail.com
 
 <!---
